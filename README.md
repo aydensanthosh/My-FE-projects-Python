@@ -1,4 +1,4 @@
-<head> MyfirstRepository</head>
-This is my first Repository. just Exploring
-
+# MyfirstRepository
+<b>This is my first Repository</b>
 <br>
+Just Exploring
